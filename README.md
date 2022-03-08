@@ -1,8 +1,15 @@
-# Basic Sample Hardhat Project
+# LocDT8 Practice NFT Smart contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Features
 
-Try running some of the following tasks:
+- Minting NFT
+- Sell & Buy NFT
+- ✨Front-end ✨
+
+## Usage
+
+- Deploy contract to Rinkeby
+- Run front-end NextJS
 
 ```shell
 npx hardhat accounts
@@ -13,5 +20,3 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-# solidity-nft-marketplace
-# nft-practice
